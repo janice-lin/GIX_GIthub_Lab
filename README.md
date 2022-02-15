@@ -7,7 +7,7 @@ Python 2.7.16 (default, May  8 2021, 11:48:02)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import numpy as np
 >>> print(np.__version__)
-1.8.0rc1
+1.8.0rc1*
 
 *Python version: 3.8.12 (default, Oct 12 2021, 06:23:56)
 [Clang 10.0.0 ]
