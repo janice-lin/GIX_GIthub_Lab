@@ -3,10 +3,6 @@ Demo repository for TECHIN514
 
 *Output:
 Python 2.7.16 (default, May  8 2021, 11:48:02) 
-[GCC Apple LLVM 12.0.5 (clang-1205.0.19.59.6) [+internal-os, ptrauth-isa=deploy on darwin
-Type "help", "copyright", "credits" or "license" for more information.
->>> import numpy as np
->>> print(np.__version__)
 1.8.0rc1*
 
 *Python version: 3.8.12 (default, Oct 12 2021, 06:23:56)
